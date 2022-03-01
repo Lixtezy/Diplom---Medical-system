@@ -1,0 +1,15 @@
+C:\Users\pro50\source\repos\Medical system\bin\Debug\Medical system.exe.config
+C:\Users\pro50\source\repos\Medical system\bin\Debug\Medical system.exe
+C:\Users\pro50\source\repos\Medical system\bin\Debug\Medical system.pdb
+C:\Users\pro50\source\repos\Medical system\obj\Debug\Medical system.csprojAssemblyReference.cache
+C:\Users\pro50\source\repos\Medical system\obj\Debug\Medical_system.Form1.resources
+C:\Users\pro50\source\repos\Medical system\obj\Debug\Medical_system.Form2.resources
+C:\Users\pro50\source\repos\Medical system\obj\Debug\Medical_system.Properties.Resources.resources
+C:\Users\pro50\source\repos\Medical system\obj\Debug\Medical system.csproj.GenerateResource.cache
+C:\Users\pro50\source\repos\Medical system\obj\Debug\Medical system.csproj.CoreCompileInputs.cache
+C:\Users\pro50\source\repos\Medical system\obj\Debug\Medical system.exe
+C:\Users\pro50\source\repos\Medical system\obj\Debug\Medical system.pdb
+C:\Users\pro50\source\repos\Medical system\obj\Debug\Medical_system.AddPatient.resources
+C:\Users\pro50\source\repos\Medical system\obj\Debug\Medical_system.Form5.resources
+C:\Users\pro50\source\repos\Medical system\obj\Debug\Medical_system.Form6.resources
+C:\Users\pro50\source\repos\Medical system\obj\Debug\Medical system.csproj.ResolveComReference.cache
